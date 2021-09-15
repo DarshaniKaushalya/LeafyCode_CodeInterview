@@ -32,7 +32,7 @@ const Navbar = () => {
         if(pathname === '/') setActiveItem('About')
         if(pathname === '/projects') setActiveItem('Projects')
         if(pathname === '/resume') setActiveItem('Resume')
-        if(pathname === '/card') setActiveItem('Card')
+        if(pathname === '/card') setActiveItem('Hire Me')
 
 
     },[])
