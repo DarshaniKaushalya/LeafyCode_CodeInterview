@@ -58,8 +58,8 @@ const card = () => {
         <div className="container px-4 py-24 mx-auto">
   
   <header className="mb-16 text-center">
-    <h1 className="mb-4 text-5xl">Our Plans</h1>
-    <p className="leading-normal text-grey-dark md:w-1/2 md:mx-auto">Follow you can see three types of our plans that we offer.Just click & hire me. </p>
+    <h1 className="mb-4 text-5xl">My Plans</h1>
+    <p className="leading-normal text-grey-dark md:w-1/2 md:mx-auto">Follow you can see three types of plans that I am offering.Just click & hire me. </p>
   </header>
   
   <div className="lg:flex lg:items-center lg:-mx-2">
